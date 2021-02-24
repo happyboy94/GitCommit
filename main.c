@@ -6,5 +6,6 @@ int main() {
     printf("Hello, World! second time\n");
     printf("Witaj Świecie! drugi raz\n");
     printf("opcja 1");
+    printf("opcja 2");
     return 0;
 }
